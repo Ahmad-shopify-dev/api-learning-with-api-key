@@ -1,0 +1,23 @@
+[
+  { "id": 1, "title": "Node.js Basics", "author": "John Doe" },
+  { "id": 2, "title": "REST API Design", "author": "Jane Smith" },
+  { "id": 3, "title": "Mastering Express", "author": "Alex Johnson" },
+  { "id": 4, "title": "React Architecture", "author": "Sarah Connor" },
+  { "id": 5, "title": "Modern JavaScript", "author": "Kyle Simpson" },
+  { "id": 6, "title": "Docker for Beginners", "author": "Nigel Poulton" },
+  { "id": 7, "title": "SQL vs NoSQL", "author": "Martin Fowler" },
+  { "id": 8, "title": "TypeScript Pro Tips", "author": "Anders Hejlsberg" },
+  { "id": 9, "title": "Microservices Guide", "author": "Sam Newman" },
+  { "id": 10, "title": "Clean Code Principles", "author": "Robert Martin" },
+  { "id": 11, "title": "Graphql Fundamentals", "author": "Lee Byron" },
+  { "id": 12, "title": "Frontend Performance", "author": "Addy Osmani" },
+  { "id": 13, "title": "AWS Cloud Patterns", "author": "Jeff Barr" },
+  { "id": 14, "title": "Testing JavaScript", "author": "Kent C. Dodds" },
+  { "id": 15, "title": "Python for Data Science", "author": "Wes McKinney" },
+  { "id": 16, "title": "Go Concurrency", "author": "Caleb Doxsey" },
+  { "id": 17, "title": "UI/UX for Developers", "author": "Steve Schoger" },
+  { "id": 18, "title": "Cybersecurity Essentials", "author": "Kevin Mitnick" },
+  { "id": 19, "title": "Serverless Deep Dive", "author": "Jeremy Daly" },
+  { "id": 20, "title": "DevOps Handbook", "author": "Gene Kim" },
+  { "id": 22, "title": "Node.js (Remarked)", "author": "James cameron" }
+]
